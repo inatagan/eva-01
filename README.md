@@ -90,3 +90,16 @@ Mouse cursor theme [**Oreo spark pink**](https://github.com/varlesh/oreo-cursors
 	ff80cd
 	afddcb
 } -->
+
+### Colors palette
+Eva01 purple Hex #711F8C RGB(113,31,140)
+![purple](./screenshots/Color-711F8C-Eva01-purple.png)
+
+Eva01 green Hex #2C8C1F RGB(44,140,31)
+![green](./screenshots/Color-2C8C1F-Eva01-green.png)
+
+Eva01 orange Hex #F08B18 RGB(240,139,24)
+![orange](./screenshots/Color-F08B18-Eva01-orange.png)
+
+One-eyed Jack Hex #1F1D1C RGB(31,29,28)
+![dark-gray](./screenshots/Color-1F1D1C-One-eyed-Jack.png)
