@@ -24,18 +24,18 @@ now clone this repo to your .themes directory:
 
 `git clone https://github.com/inatagan/eva-01.git ~/.themes/eva-01`
 ### Preview
-<!-- #### Desktop
-![Desktop](./screenshots/Screenshot_2021-11-01_20-26-02.png)
+#### Desktop
+![Desktop](./pictures/desktop.png)
 #### Firefox && code
-![Firefox && code](./screenshots/Screenshot_2021-11-01_20-48-38.png)
-#### GIMP && Thunar && Sakura terminal
-![GIMP && Thunar && Sakura terminal](./screenshots/Screenshot_2021-11-01_20-48-45.png)
+![Firefox && code](./pictures/firefox-code.png)
+#### Thunar && Sakura terminal
+![Thunar && Sakura terminal](./pictures/thunar-sakura.png)
 #### Notifications
-![Notifications](./screenshots/Screenshot_2021-11-01_20-49-33.png)
+![Notifications](./pictures/notifications.png)
 #### Whisker menu
-![Whisker menu](./screenshots/Screenshot_2021-11-01_21-02-17.png)
-#### System info
-![System info](./screenshots/Screenshot_2021-11-01_22-08-21.png) -->
+![Whisker menu](./pictures/whisker-menu.png)
+#### VS Code
+![code](./pictures/vscode.png)
 ### XFCE Panel
 Copy the panel config file to its default destination
 
@@ -93,7 +93,7 @@ Firefox theme [**EVA-01**](https://addons.mozilla.org/en-US/firefox/addon/eva-01
 
 Code theme [**EVA-01**](https://marketplace.visualstudio.com/items?itemName=inatagan.eva-01-vscode-theme)
 
-Icons theme [**Papirus**](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) + [yaru folders](https://github.com/PapirusDevelopmentTeam/papirus-folders)
+Icons theme [**Papirus**](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) + [green folders](https://github.com/PapirusDevelopmentTeam/papirus-folders)
 
 Mouse cursor theme [**Oreo spark lime**](https://github.com/varlesh/oreo-cursors)
 

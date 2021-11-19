@@ -890,7 +890,7 @@ toolbar, .inline-toolbar {
   border-image: linear-gradient(to bottom, #711F8C, rgba(32, 35, 43, 0.97)) 1 0 1 0; }
 
 .inline-toolbar {
-  background-color: #313541;
+  background-color: #916CAD;
   border-style: solid;
   border-color: #711F8C;
   border-width: 0 1px 1px;
@@ -907,7 +907,7 @@ searchbar {
 actionbar {
   padding: 6px;
   border-top: 1px solid #711F8C;
-  background-color: #313541; }
+  background-color: #916CAD; }
 
 headerbar,
 .titlebar:not(headerbar) {
@@ -3063,7 +3063,7 @@ popover.background label.nautilus-canvas-item.separator, headerbar .nautilus-can
     background-color: rgba(82, 148, 226, 0.8);
     border-color: rgba(191, 97, 106, 0.8); }
   .disk-space-display.free {
-    background-color: #313541;
+    background-color: #916CAD;
     border-color: #1b1d24; }
 
 @keyframes needs_attention_keyframes {
@@ -4340,7 +4340,7 @@ filechooser placessidebar.sidebar scrollbar,
 {
 	border-color: transparent;
 	background-image: none;
-	color: #fcfcfc;
+	color: #c7fba5;
 	box-shadow: none;
 	background-color: transparent;
 	transition: none; 
