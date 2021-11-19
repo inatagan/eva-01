@@ -1,6 +1,16 @@
 # *Evangelion Unit 01*
 ### Overview
 This is a XFCE/gtk3 theme. It was build upon the Sakura-Dark theme, with additional apps customized and *gaps* between windows.
+### Color palette
+Green 0|Green 1|Green 2|Green 3|Black 0
+:---:|:---:|:---:|:---:|:---:
+![green0](./pictures/green0-33ff00.png)|![green1](./pictures/green1-C7FBA5.png)|![green2](./pictures/green2-ADF182.png)|![green3](./pictures/green3-2C8C1F.png)|![black0](./pictures/black0-1F1D1C.png)
+#33ff00|#C7FBA5|#ADF182|#2C8C1F|#1F1D1C
+
+Purple 0|Purple 1|Purple 2|Pink 0|Orange 0
+:---:|:---:|:---:|:---:|:---:
+![purple0](./pictures/purple0-916CAD.png)|![purple1](./pictures/purple1-523874.png)|![purple2](./pictures/purple2-711F8C.png)|![pink0](./pictures/pink0-DC7D68.png)|![orange0](./pictures/orange0-F08B18.png)
+#916CAD|#523874|#711F8C|#DC7D68|#F08B18
 ### About *gaps*
 This theme only handles the inner gaps between windows, to add gaps to the outer line you must manually add in XFCE settings, go to:
 	settings manager > Workspaces > Margins
@@ -77,29 +87,14 @@ Full side|U|null|O
 Bottom|J|K|L
 
 ### Wallpapers
-<!-- The main wallpaper was made using [this art as source](https://twitter.com/AlainPLD/status/1453263612835942406/photo/1) by @AlainPLD. -->
+The main wallpaper was made using [this art as source](https://www.instagram.com/p/CWGAOQgP0_H/?utm_medium=copy_link) by @ikhimaz.
 ### Software shown and additional themes
-Firefox theme [**sakura-dark-theme**](https://addons.mozilla.org/en-US/firefox/addon/sakura-dark-theme/)
+Firefox theme [**EVA-01**](https://addons.mozilla.org/en-US/firefox/addon/eva-01-theme/)
 
-Code theme [**sakura-dark**](https://marketplace.visualstudio.com/items?itemName=inatagan.sakura-dark-vscode-theme)
+Code theme [**EVA-01**](https://marketplace.visualstudio.com/items?itemName=inatagan.eva-01-vscode-theme)
 
 Icons theme [**Papirus**](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) + [yaru folders](https://github.com/PapirusDevelopmentTeam/papirus-folders)
 
-Mouse cursor theme [**Oreo spark pink**](https://github.com/varlesh/oreo-cursors)
-<!-- accent colors {
-	ff80cd
-	afddcb
-} -->
+Mouse cursor theme [**Oreo spark lime**](https://github.com/varlesh/oreo-cursors)
 
-### Colors palette
-Eva01 purple Hex #711F8C RGB(113,31,140)
-![purple](./screenshots/Color-711F8C-Eva01-purple.png)
-
-Eva01 green Hex #2C8C1F RGB(44,140,31)
-![green](./screenshots/Color-2C8C1F-Eva01-green.png)
-
-Eva01 orange Hex #F08B18 RGB(240,139,24)
-![orange](./screenshots/Color-F08B18-Eva01-orange.png)
-
-One-eyed Jack Hex #1F1D1C RGB(31,29,28)
-![dark-gray](./screenshots/Color-1F1D1C-One-eyed-Jack.png)
+---
