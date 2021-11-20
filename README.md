@@ -44,6 +44,24 @@ Copy the panel config file to its default destination
 The panel uses a custom background, currently the background provided supports the following resolutions [4k, QHD, FHD and HD], if you want the panel to look the same on an unsupported screen you must edit/create a custom background to fit your screen resolution.
 
 To set the background go to the panel settings, chose panel **1** > in the appearance tab set Style to Background image and chose the appropriate file, the bg image should be in `~/.themes/eva-01/panel-background/`
+### XFWM window decorations
+You can change the window decoration colors, by default this theme comes with 2 pre-made decoration colors, Eva Green 0 and Eva Green 3, see the color palette to see them.
+
+Under the XWFM folder there are 2 subfolders containing the 2 different window decorations, `green0-33ff00` and `green3-2C8C1F`, to ""install"" them just copy the files in the subfolder to its parent folder `xfwm4`, you can also just run these commands:
+
+**For Eva Green 0**
+
+`cp -a ~/.themes/eva-01/xfwm4/green0-33ff00/. ~/.themes/eva-01/xfwm4/`
+
+![green0](./pictures/eva-green-0.png)
+
+**For Eva Green 3**
+
+`cp -a ~/.themes/eva-01/xfwm4/green3-2C8C1F/. ~/.themes/eva-01/xfwm4/`
+
+![green3](./pictures/eva-green-3.png)
+
+After copying the files don't forget to reapply the theme for the changes to take effect.
 ### My Keybindings
 Copy the keyboard shortcuts file if you want the same keybindings as well to `~/.config/xfce4/xfconf/xfce-perchannel-xml/`
 
