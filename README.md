@@ -11,6 +11,12 @@ Purple 0|Purple 1|Purple 2|Pink 0|Orange 0
 :---:|:---:|:---:|:---:|:---:
 ![purple0](./pictures/purple0-916CAD.png)|![purple1](./pictures/purple1-523874.png)|![purple2](./pictures/purple2-711F8C.png)|![pink0](./pictures/pink0-DC7D68.png)|![orange0](./pictures/orange0-F08B18.png)
 #916CAD|#523874|#711F8C|#DC7D68|#F08B18
+
+### Bonus
+Green 0x2|Blue Sky|Red Sky|Shinji Blue 1|Shinji Blue 2|Shinji Blue 3
+:---:|:---:|:---:|:---:|:---:|:---:
+![green0x2](./pictures/green0x2-50d06e.png)|![blue-sky](./pictures/blue-sky-6394cf.png)|![red-sky](./pictures/red-sky-f98365.png)|![shinji1](./pictures/shinji-blue-6a9ed0.png)|![shinji2](./pictures/shinji-blue-1d4b7c.png)|![shinji3](./pictures/shinji-blue-0e1541.png)|
+#50D06E|#6394CF|#F98365|#6A9ED0|#1D4B7C|#0E1541
 ### About *gaps*
 This theme only handles the inner gaps between windows, to add gaps to the outer line you must manually add in XFCE settings, go to:
 	settings manager > Workspaces > Margins
@@ -60,6 +66,12 @@ Under the XWFM folder there are 2 subfolders containing the 2 different window d
 `cp -a ~/.themes/eva-01/xfwm4/green3-2C8C1F/. ~/.themes/eva-01/xfwm4/`
 
 ![green3](./pictures/eva-green-3.png)
+
+**Bonus - For Eva Green 0x2**
+
+`cp -a ~/.themes/eva-01/xfwm4/green0x2-50d06e/. ~/.themes/eva-01/xfwm4/`
+
+![green3](./pictures/eva-green-0x2.png)
 
 After copying the files don't forget to reapply the theme for the changes to take effect.
 ### My Keybindings
