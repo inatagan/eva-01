@@ -4362,3 +4362,9 @@ filechooser placessidebar.sidebar scrollbar,
   background-color: #523874;
   margin: 2px 0px;
 }
+
+/* When in miniature mode, the wnck-pager element is replaced with toggle buttons
+replace "#pager-1" with the actual name of your pager */
+/* #pager-2 button { background-color: #523874; } */
+#pager-2 button:checked { background-color: #523874; }
+#pager-2 button:hover { background-color: #523874; }
