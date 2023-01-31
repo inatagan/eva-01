@@ -4345,17 +4345,17 @@ filechooser placessidebar.sidebar scrollbar,
 	background-color: transparent;
 	transition: none; 
   border-radius: 10px;
-  margin: 2px 0px;
+  margin: 4px 0px;
 }
 
 #clock-button {
   background-color: #523874;
-  margin: 2px 0px;
+  margin: 4px 0px;
 }
 
 #actions-button {
   background-color: #523874;
-  margin: 2px 0px;
+  margin: 4px 0px;
   border-bottom-right-radius: 0px;
   border-top-right-radius: 0px;
 
@@ -4363,7 +4363,7 @@ filechooser placessidebar.sidebar scrollbar,
 
 #whiskermenu-button {
   background-color: #523874;
-  margin: 2px 0px;
+  margin: 4px 0px;
   border-bottom-left-radius: 0px;
   border-top-left-radius: 0px;
 
@@ -4372,6 +4372,6 @@ filechooser placessidebar.sidebar scrollbar,
 /* When in miniature mode, the wnck-pager element is replaced with toggle buttons
 replace "#pager-1" with the actual name of your pager */
 /* #pager-2 button { background-color: #523874; } */
-#pager-2 button { margin: 2px 0px; }
+#pager-2 button { margin: 4px 0px; }
 #pager-2 button:checked { background-color: #523874; }
 #pager-2 button:hover { background-color: #523874; }
